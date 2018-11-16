@@ -521,6 +521,24 @@ setInterval(fixUpWBBanner, 2000);
 						</div>
 											<div class="genre-pod-game">
 							<div class="genre-pod-game-image">
+								<a href="n.php" >
+									<img alt="N"
+									  dojoType="ag.widget.games.GameInfo"
+									  gameId="4600"
+									  title="N" 
+									  src="/all/20080318224139im_/http://www.addictinggames.com/fimages/4599.jpg" 
+									  width="50" 
+									  height="50">
+								</a>
+							</div>
+							<div class="genre-pod-game-title">
+								<a href="n.php">
+									N
+								</a>
+							</div>
+						</div>
+											<div class="genre-pod-game">
+							<div class="genre-pod-game-image">
 								<a href="/all/20080318224139/http://www.addictinggames.com/conflictairstrike.html" >
 									<img alt="Conflict Airstrike"
 									  dojoType="ag.widget.games.GameInfo"
@@ -1407,7 +1425,7 @@ setInterval(fixUpWBBanner, 2000);
 						</div>
 											<div class="genre-pod-game">
 							<div class="genre-pod-game-image">
-								<a href="/all/20080318224139/http://www.addictinggames.com/monkey.html" >
+								<a href="spankthemonkey.php" >
 									<img alt="Spank the Monkey"
 									  dojoType="ag.widget.games.GameInfo"
 									  gameId="1688"
@@ -1418,7 +1436,7 @@ setInterval(fixUpWBBanner, 2000);
 								</a>
 							</div>
 							<div class="genre-pod-game-title">
-								<a href="/all/20080318224139/http://www.addictinggames.com/monkey.html">
+								<a href="spankthemonkey.php">
 									Spank the Monkey
 								</a>
 							</div>
