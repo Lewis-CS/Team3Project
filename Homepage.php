@@ -431,6 +431,27 @@ setInterval(fixUpWBBanner, 2000);
 								<br/>
 							</div>
 						</div>
+													<div class="newgame">
+					<div class="newgame-image">
+													<a href="fpa.php">
+						 
+																			<img alt="Fancy Pants Aventures"
+							  title="Little Loki Escapes from Hell"
+							  dojoType="ag.widget.games.GameInfo"
+							  gameId="4686"
+							  src="/all/20080318224139im_/http://www.addictinggames.com/fimages/4686.jpg" 
+							  width="50"
+							  height="50"
+							  position="R"/></a>
+					</div>
+					<div class="newgame-description">
+													<a href="fpa.php">
+																									Fancy Pants Adventures</a>
+						<br/>
+							Fancy Pants Adventures
+						<br/>
+					</div>
+				</div>
 											<div class="newgame">
 							<div class="newgame-image"">
 																						<a href="/all/20080318224139/http://www.addictinggames.com/shufflesnakebites.html">
